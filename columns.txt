@@ -1,0 +1,27 @@
+
+2023-10-11 14:27:17.144971 -> icqv-mi3c -> Extract Analysis - Charity Extension Requests
+Ce Fein
+Entity Id
+Org Name
+Ox 8868 Flg
+Ox 990t Flg
+Ox Due Date
+Ox Eor Flg
+Ox Fy End
+Ox Name
+Ox Reason
+Ox Request Date
+Ox Request No
+
+2023-10-11 14:32:55.233718 -> icqv-mi3c -> Transform Analysis - Charity Extension Requests
+_990filingStatus
+authorizedOfficer
+dateCreated
+entityId
+extendedDueDate
+extensionRequestReason
+fein
+fiscalYearend
+form8868Filed
+form990tCorporation
+name

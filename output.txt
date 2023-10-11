@@ -1,5 +1,0 @@
-    let tRow                    = {};      let tRow                    = {};
-"entityId"  entity_id_input
-"documentId"  "Document Id"
-"orgName"  "Org Name"
-"solTypeDscrp"  "Sol Type Dscrp"
